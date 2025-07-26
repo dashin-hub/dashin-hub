@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **sg6165@srmist.edu.in** For Collaboration/Project or Anyth
 - 👯 **I’m looking to collaborate on:** Palo Alto
 - 🤔 **I’m looking for help with:** ML
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:**sg6165@srmist.edu.in
+- 📫 How to reach me:sg6165@srmist.edu.in
 - 😄 **Pronouns:** HE
 
 <!-- Snake Game Repo View -->
