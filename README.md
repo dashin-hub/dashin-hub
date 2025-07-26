@@ -10,7 +10,11 @@ Email Me 👉 ✉️ **sg6165@srmist.edu.in** For Collaboration/Project or Anyth
 - 📫 **How to reach me:**sg6165@srmist.edu.in
 - 😄 **Pronouns:** HE
 
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
