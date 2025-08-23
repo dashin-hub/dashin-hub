@@ -4,8 +4,6 @@ I'm a final year undergraduate student,
 Email Me 👉 ✉️ **sg6165@srmist.edu.in** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Python
-- 👯 **I’m looking to collaborate on:** Palo Alto
-- 🤔 **I’m looking for help with:** ML
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 How to reach me:sg6165@srmist.edu.in
 - 😄 **Pronouns:** HE
