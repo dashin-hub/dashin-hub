@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sree dharshan 
-I'm a final year undergraduate student, currently pursuing my passion in **Cybersecurity**.
+I'm a final year undergraduate student, 
 
 Email Me 👉 ✉️ **sg6165@srmist.edu.in** For Collaboration/Project or Anything Else. 😊😊
 
