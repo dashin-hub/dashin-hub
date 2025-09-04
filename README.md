@@ -3,10 +3,7 @@ I'm a final year undergraduate student,
 
 Email Me 👉 ✉️ **sg6165@srmist.edu.in** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Python
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 How to reach me:sg6165@srmist.edu.in
-- 😄 **Pronouns:** HE
+- 🌱 **I’m currently learning:** GenAI
   <!-- Add this to your README.md -->
 
 <div align="center">
