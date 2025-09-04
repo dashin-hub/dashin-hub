@@ -36,17 +36,4 @@ Email Me 👉 ✉️ **sg6165@srmist.edu.in** For Collaboration/Project or Anyth
 <!-- Add this to your README.md -->
 
 
- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dashin-hub&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dashin-hub&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dashin-hub&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dashin-hub&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
