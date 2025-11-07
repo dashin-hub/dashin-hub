@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sree dharshan 
+# 💫 Hi 👋, I'm SREEDHARSHAN G J 
 I'm a final year undergraduate student, 
 
 Email Me 👉 ✉️ **sg6165@srmist.edu.in** For Collaboration/Project or Anything Else. 😊😊
